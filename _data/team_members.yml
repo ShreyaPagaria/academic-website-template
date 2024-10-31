@@ -1,8 +1,8 @@
-- name: Example student name
-  photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
-  website: https://website.com
+- name: Shreya Pagaria
+  photo: Shreya_Pagaria.jpg
+  info: MS AI/ML ∩ ChemE, started Aug 2024
+  email: spagaria@andrew.cmu.edu
+  website: building soon!!
 
 - name: "This could be you !"
   photo: rock.jpg
